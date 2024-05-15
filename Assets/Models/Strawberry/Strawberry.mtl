@@ -1,0 +1,26 @@
+# Material Count: 2
+
+newmtl Strawberry01
+Ns 52.941176
+Ka 0.000000 0.000000 0.000000
+Kd 0.990000 0.990000 0.990000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures/strawberry.jpg
+map_Bump textures/strawberry_bump_map.jpg
+map_Ka textures/strawberry.jpg
+
+newmtl Strawberry__Top01
+Ns 52.941176
+Ka 0.000000 0.000000 0.000000
+Kd 0.990000 0.990000 0.990000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures/strawberry_top_leaves.jpg
+map_Ka textures/strawberry_top_leaves.jpg

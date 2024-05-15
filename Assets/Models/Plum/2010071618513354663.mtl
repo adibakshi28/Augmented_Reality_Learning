@@ -1,0 +1,25 @@
+# Material Count: 2
+
+newmtl 08___Default
+Ns 39.215686
+Ka 0.202600 0.202600 0.202600
+Kd 0.990000 0.990000 0.990000
+Ks 0.540000 0.540000 0.540000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/120p2.jpg
+map_Ka textures/120p2.jpg
+
+newmtl Model_120_Plum_2
+Ns 39.215686
+Ka 0.202600 0.202600 0.202600
+Kd 0.990000 0.990000 0.990000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/120p1.jpg
+map_Ka textures/120p1.jpg

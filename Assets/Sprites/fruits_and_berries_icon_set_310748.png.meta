@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: ca266dda770b2f945a77364242f375df
+timeCreated: 1523456462
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fruits_and_berries_icon_set_310748_0
+    21300002: fruits_and_berries_icon_set_310748_1
+    21300004: fruits_and_berries_icon_set_310748_2
+    21300006: fruits_and_berries_icon_set_310748_3
+    21300008: fruits_and_berries_icon_set_310748_4
+    21300010: fruits_and_berries_icon_set_310748_5
+    21300012: fruits_and_berries_icon_set_310748_6
+    21300014: fruits_and_berries_icon_set_310748_7
+    21300016: fruits_and_berries_icon_set_310748_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fruits_and_berries_icon_set_310748_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 441
+        width: 151
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fruits_and_berries_icon_set_310748_1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 441
+        width: 138
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fruits_and_berries_icon_set_310748_2
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 441
+        width: 117
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fruits_and_berries_icon_set_310748_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 215
+        width: 159
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fruits_and_berries_icon_set_310748_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 215
+        width: 132
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fruits_and_berries_icon_set_310748_5
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 215
+        width: 122
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fruits_and_berries_icon_set_310748_6
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 105
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fruits_and_berries_icon_set_310748_7
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1
+        width: 117
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fruits_and_berries_icon_set_310748_8
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 0
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

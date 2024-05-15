@@ -1,0 +1,35 @@
+# Material Count: 3
+
+newmtl 02___Default
+Ns 29.411765
+Ka 0.430033 0.430033 0.430033
+Kd 0.694100 0.298000 0.298000
+Ks 0.540000 0.540000 0.540000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Bump textures/Map__4_Cellular.jpg
+map_Ks textures/Map__6_Cellular.jpg
+
+newmtl Model_098_Raspberry_1
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.990000 0.990000 0.990000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/098pa1.jpg
+map_Ka textures/098pa1.jpg
+
+newmtl Model_098_Raspberry_2
+Ns 39.215686
+Ka 0.282367 0.282367 0.282367
+Kd 0.435300 0.200000 0.211800
+Ks 0.540000 0.540000 0.540000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2

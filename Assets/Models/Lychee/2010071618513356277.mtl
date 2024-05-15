@@ -1,0 +1,27 @@
+# Material Count: 2
+
+newmtl 02___Defaklt
+Ns 9.803922
+Ka 0.397367 0.397367 0.397367
+Kd 0.990000 0.990000 0.990000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/130l2.jpg
+map_Bump textures/130l1.jpg
+map_Ka textures/130l2.jpg
+
+newmtl 02___Default
+Ns 9.803922
+Ka 0.397367 0.397367 0.397367
+Kd 0.990000 0.990000 0.990000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/130l1.jpg
+map_Bump textures/130lb1.jpg
+map_Ka textures/130l1.jpg
